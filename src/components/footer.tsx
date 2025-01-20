@@ -4,8 +4,8 @@
 
 function Footer(){
     return(
-        <section className="bg-gradient-to-b from-blue-300 to-blue-600 py-8 mt-16">
-            <div className="mx-auto px-[280px] pt-10 pb-20 ">
+        <section className="bg-gradient-to-b from-blue-300 to-blue-600 py-8 mt-16 ">
+            <div className="mx-auto px-[280px] pt-10 pb-20 sm:flex-shrink   ">
                 <div className="flex lg:flex-row text-white items-center mx-auto">
                     <div className="flex flex-col w-[460px]  pt-">
                         <div className=" flex flex-row items-center">
@@ -19,9 +19,10 @@ function Footer(){
 
                     </div>
 
-                    <div className="flex flex-col px-28 ">
-                        <h1 className="font-bold">Company</h1>
+                    <div className="flex flex-col px-28   ">
+                        
                         <ul className="mt-5 space-y-5"> 
+                        <li className="font-bold">Company</li>
                            
                             <li>About</li>
                             <li>Testimonials</li>

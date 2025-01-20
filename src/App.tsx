@@ -7,6 +7,7 @@ import Download from "./components/download";
 import Customer from "./components/customer";
 import Latest from "./components/latest";
 import Footer from "./components/footer";
+import ServiceOptions from "./components/service_options";
 
 function App(){
   return(
@@ -14,6 +15,7 @@ function App(){
       <Header/>
       <Virtual/>
       <Service/>
+      <ServiceOptions/>
       <Health/>
       <Download/>
       <Customer/>
