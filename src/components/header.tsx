@@ -5,7 +5,7 @@ function Header(){
             <div>
               <img src="src/assets/header/logo.svg"/>
             </div>
-            <div className="flex  space-x-10  text-gray-500  " >
+            <div className="flex  space-x-10  text-gray-500 ml-auto" >
               <button className="    hover:font-bold "><a  href="#">Home </a></button>  
               <button className=" hover:font-bold "><a  href="#">Find a doctor </a></button>  
               <button className="   hover:font-bold "><a href="#">App </a></button>  

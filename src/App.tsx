@@ -5,6 +5,8 @@ import Service from "./components/Service";
 import Health from "./components/health";
 import Download from "./components/download";
 import Customer from "./components/customer";
+import Latest from "./components/latest";
+import Footer from "./components/footer";
 
 function App(){
   return(
@@ -15,6 +17,8 @@ function App(){
       <Health/>
       <Download/>
       <Customer/>
+      <Latest/>
+      <Footer/>
     </div>
   )
 }

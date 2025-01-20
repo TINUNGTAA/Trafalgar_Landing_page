@@ -8,7 +8,7 @@ function Virtual(){
                 <h1 className=" text-5xl mb-10">Virtual healthcare <br/> for you</h1>
                 <p className="text-xl text-gray-500 mb-12 ">Trafalgar provides progressive, and affordable  <br/> healthcare, accessible on mobile and online <br/> for everyone </p>
 
-                <button className="bg-blue-500 py-7 px-8 text-white font-semibold text-3xl border  texr-center rounded-full  hover:bg-blue-300">Consult today </button>
+                <button className="bg-blue-500 py-3 px-6 text-white font-semibold text-2xl border  texr-center rounded-full  hover:bg-blue-300">Consult today </button>
 
             </div>
             <div className="grid lg:grid-col-3  ">
