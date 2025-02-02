@@ -1,6 +1,6 @@
 function Health() {
   return (
-    <section className="lg:mt-16 mt-5 px-5 lg:px-28 grap-16 ">
+    <section className="mt-16  px-5 lg:px-28 grap-16 ">
       <div className="   flex items-center flex-col lg:flex-row justify-between lg:items-start ">
         <div className="flex flex-1  flex-col items-center lg:justify-start mb-6 lg:mb-0 mt-16 lg:mt-0">
           {/* image */}

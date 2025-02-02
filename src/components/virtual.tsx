@@ -1,6 +1,6 @@
 function Virtual() {
   return (
-    <section className="flex gap-12  items-center mt-12  px-5 lg:px-28  lg:items-start">
+    <section className="flex gap-12 lg:flex-row flex-col items-center mt-12   px-5 lg:px-28  lg:items-start">
       <div className="flex  flex-col flex-1  items-start ">
         <h1 className=" lg:leading-loose lg:text-5xl   text-xl lg:mb-10 mb-3 font-medium">
           Virtual healthcare <br /> for you
