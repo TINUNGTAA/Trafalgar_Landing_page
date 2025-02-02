@@ -9,7 +9,7 @@ function Customer() {
 
         <div className="flex flex-col lg:flex-row  items-center mt-12  lg:gap-16">
           <div className="flex flex-row gap-8 items-center">
-            <img src="src/assets/customer/Group 5.svg" />
+            <img src="public/customer/Group 5.svg" />
 
             <div className="flex-col ">
               <h2 className="font-semibold text-xl lg:leading-loose">Edward Newgate </h2>
@@ -30,7 +30,7 @@ function Customer() {
       </div>
 
       <div className=" flex justify-center mt-6 ">
-        <img src="src/assets/customer/arrow nav.svg" className="" />
+        <img src="public/customer/arrow nav.svg" className="" />
       </div>
     </section>
   );
