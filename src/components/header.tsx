@@ -5,7 +5,7 @@ function Header() {
   return (
     <header className="bg-white  flex flex-row justify-between  px-5 lg:px-28 py-5 items-center   font-family-mulish">
       <div>
-        <img src="public/header/logo.svg" />
+        <img src="public/assets/header/logo.svg" />
       </div>
       <div className="  space-x-10  text-gray-500 ml-auto hidden  md:block lg:block">
         <button className="    hover:font-bold ">
