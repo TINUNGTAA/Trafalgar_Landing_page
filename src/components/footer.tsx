@@ -5,11 +5,11 @@ function Footer() {
         <div className="flex flex-col lg:flex-row text-white items-start lg:mx-auto">
           <div className="flex flex-col w-[460px]  pt-">
             <div className=" flex flex-row items-center">
-              <span className="flex items-center justify-center bg-white text-useBlue w-8 h-8 rounded-full font-bold">
+            <span className="flex items-center justify-center bg-white text-useBlue w-8 h-8 rounded-full font-bold">
                 T
               </span>
               <h1 className="text-white text-2xl font-semibold px-5">
-                {" "}
+                {" "}  
                 Trafalgar{" "}
               </h1>
             </div>
