@@ -27,7 +27,7 @@ function Header() {
       </div>
       <div className="flex  flex-1 justify-end lg:hidden md:hidden cursor-pointer">
     
-      <img src="public/header/bars-solid.svg" className="w-10 h-5"  onClick={()=>setMenu(!openMenu)}/>
+      <img src="/header/bars-solid.svg" className="w-10 h-5"  onClick={()=>setMenu(!openMenu)}/>
       </div>
       <div className={`absolute lg:hidden top-20 right-0 rounded-lg bg-gray-100 flex flex-col items-center  font-semibold text-lg transform transition-transform ${ openMenu? 
       "opacity-100" :"opacity-0"}`}>
