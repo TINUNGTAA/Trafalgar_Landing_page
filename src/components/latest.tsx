@@ -21,7 +21,7 @@ function Latest() {
                 <br />
                 <a href="#" className="text-useBlue flex items-center  mt-2 ">
                   Read more{" "}
-                  <span className="px-2 ">
+                  <span className="px-5 flex items-center ">
                     <img src="public/latest/Vector.svg" />
                   </span>
                 </a>
@@ -41,7 +41,7 @@ function Latest() {
                 <br />
                 <a href="#" className="text-useBlue flex items-center  mt-2">
                   Read more{" "}
-                  <span className="px-2">
+                  <span className="px-5 flex items-center">
                     <img src="/latest/Vector.svg" />
                   </span>
                 </a>
@@ -61,7 +61,7 @@ function Latest() {
                 <br />
                 <a href="#" className="text-useBlue flex items-center mt-5 ">
                   Read more{" "}
-                  <span className="px-2">
+                  <span className="px-5 flex items-center">
                     <img src="/latest/Vector.svg" />
                   </span>
                 </a>

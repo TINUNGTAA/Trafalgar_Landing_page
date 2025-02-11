@@ -1,10 +1,10 @@
 function ServiceOptions() {
   return (
     <section className="lg:mt-12 px-5 md:px-16   mt-16 ">
-      <div className="bg-contain  bg-no-repeat h-screen lg:flex items-center  justify-center " style={{ backgroundImage: "url('src/assets/service/Vector.svg') ", backgroundSize:"937.95px 671.23px" }}> 
+      <div className="bg-contain  bg-no-repeat min-h-screen lg:flex items-center  justify-center " style={{ backgroundImage: "url('/service/Vector.svg') ", backgroundSize:"937.95px 671.23px" }}> 
       <div className=" flex-col items-center mx-auto">
-        <div className="flex  md:flex-col lg:flex-row  items-center flex-col  gap-10">
-          <div className="flex flex-col w-[350px] lg:w-[350px] border rounded-lg  h-[300px]  lg:h-[350px]  border-white shadow-lg p-10  hover:border-useBlue">
+        <div className="flex  md:flex-col lg:flex-row  items-center flex-col  gap-4 md:gap-10">
+          <div className="flex flex-col w-[350px] lg:w-[350px] border rounded-lg  h-auto  lg:h-[350px]  border-white shadow-lg p-10  hover:border-useBlue">
             <img src="/service/search.svg" className="w-[60px]" />
             <h1 className="lg:mt-10 mt-5 font-semibold lg:text-xl"> Search doctor </h1>
             <p className="text-gray-500  lg:leading-loose lg:mt-5  mt-3">
@@ -13,7 +13,7 @@ function ServiceOptions() {
             </p> 
           </div>
 
-          <div className="flex flex-col w-[350px] border rounded-lg h-[350px]  border-white shadow-lg p-10 hover:border-useBlue">
+          <div className="flex flex-col w-[350px] border rounded-lg h-auto  border-white shadow-lg p-10 hover:border-useBlue">
             <img src="/service/Frame.svg" className="w-[60px]" />
             <h1 className="mt-10 font-semibold text-xl">Online pharmacy </h1>
             <p className="text-gray-500  lg:leading-loose mt-5">
@@ -22,7 +22,7 @@ function ServiceOptions() {
             </p>
           </div>
 
-          <div className="flex flex-col w-[350px] border rounded-lg h-[350px]  border-white shadow-lg p-10 hover:border-useBlue">
+          <div className="flex flex-col w-[350px] border rounded-lg h-auto border-white shadow-lg p-10 hover:border-useBlue">
             <img src="/service/Frame (1).svg" className="w-[60px]" />
             <h1 className="mt-10 font-semibold text-xl">Consultation </h1>
             <p className="text-gray-500  lg:leading-loose mt-5">
@@ -34,8 +34,8 @@ function ServiceOptions() {
 
         {/* down */}
 
-        <div className="flex lg:flex-row mb-12 lg:mb-0 items-center flex-col mx-auto mt-10 gap-10">
-          <div className="flex flex-col w-[350px] border rounded-lg h-[350px]  border-white shadow-lg p-10 hover:border-useBlue">
+        <div className="flex lg:flex-row mb-12 lg:mb-0 items-center flex-col mx-auto mt-10 gap-4 md:gap-10">
+          <div className="flex flex-col w-[350px] border rounded-lg h-auto  border-white shadow-lg p-10 hover:border-useBlue">
             <img src="/service/Frame (3).svg" className="w-[60px] " />
             <h1 className="mt-10 font-semibold text-xl"> Details info </h1>
             <p className="text-gray-500  lg:leading-loose  mt-5">
@@ -44,7 +44,7 @@ function ServiceOptions() {
             </p>
           </div>
 
-          <div className="flex flex-col w-[350px] border rounded-lg h-[350px]  border-white shadow-lg p-10 hover:border-useBlue">
+          <div className="flex flex-col w-[350px] border rounded-lg h-auto  border-white shadow-lg p-10 hover:border-useBlue">
             <img src="/service/Frame (4).svg" className="w-[60px]" />
             <h1 className="mt-10 font-semibold text-xl">Emergency care </h1>
             <p className="text-gray-500  lg:leading-loose mt-5 ">
@@ -53,7 +53,7 @@ function ServiceOptions() {
             </p>
           </div>
 
-          <div className="flex flex-col w-[350px] border rounded-lg h-[350px]  border-white shadow-lg p-10 hover:border-useBlue">
+          <div className="flex flex-col w-[350px] border rounded-lg h-auto  border-white shadow-lg p-10 hover:border-useBlue">
             <img src="/service/Group.svg" className="w-[60px]" />
             <h1 className="mt-10 font-semibold text-xl">Tracking</h1>
             <p className="text-gray-500  lg:leading-loose mt-5 ">

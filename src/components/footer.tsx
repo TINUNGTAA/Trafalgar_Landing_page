@@ -1,8 +1,8 @@
 function Footer() {
   return (
     <section className="bg-gradient-to-b from-blue-300 to-blue-600 py-8 mt-16 px-28 ">
-      <div className="mx-auto lg:px-[280px] pt-10 pb-20   ">
-        <div className="flex flex-col lg:flex-row text-white items-start lg:mx-auto">
+      <div className=" mx-auto  pt-10 pb-20  ">
+        <div className="flex flex-col lg:flex-row text-white items-start ">
           <div className="flex flex-col w-[460px]  pt-">
             <div className=" flex flex-row items-center">
             <span className="flex items-center justify-center bg-white text-useBlue w-8 h-8 rounded-full font-bold">
@@ -19,12 +19,12 @@ function Footer() {
             </p>
             <p className="mt-5 lg:leading-loose ">©Trafalgar PTY LTD 2025. All rights reserved</p>
           </div>
-          <div className="flex gap-16  mt-12 lg:mt-0">
+          <div className="flex gap-16  mt-12 lg:mt-0 ">
 
           <div className="flex flex-col   ">
           <h1 className="font-bold">Company</h1>
 
-            <ul className="mt-5 space-y-5 ">
+            <ul className="mt-5 lg:space-y-5 ">
               <li>About</li>
               <li>Testimonials</li>
               <li>Find a doctor</li>
