@@ -17,13 +17,13 @@ function Download() {
           <button className="border border-useBlue w-4/12 flex py-2 lg:py-3 rounded-full items-center justify-center mt-6 text-useBlue lg:text-xl hover:text-blue-600 ">
             Download{" "}
             <span className="px-2">
-              <img src="/download/Vector.svg" />
+              <img src="/download/VectorD.svg" />
             </span>
           </button>
         </div>
         {/* image */}
         <div className="flex flex-1">
-          <img src=" /download/trafalgar-illustration sec03 1.svg" />
+          <img src=" /download/downloadImage.svg" />
         </div>
       </div>
     </section>
