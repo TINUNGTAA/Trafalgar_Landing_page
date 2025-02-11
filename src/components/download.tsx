@@ -23,7 +23,7 @@ function Download() {
         </div>
         {/* image */}
         <div className="flex flex-1">
-          <img src=" /download/downloadImage.svg" />
+          <img src=" /download/downloadImage.svg"/>
         </div>
       </div>
     </section>
