@@ -16,7 +16,7 @@ function Virtual() {
       </div>
 
       <div className="flex flex-1">
-        <img src="public/virtual/illustration.svg"/>
+        <img src="/virtual/illustration.svg"/>
 
       </div>
       

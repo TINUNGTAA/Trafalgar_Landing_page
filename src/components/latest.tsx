@@ -10,7 +10,7 @@ function Latest() {
 
         <div className="gap-10  flex lg:flex-row flex-col">
           <div className="flex flex-col">
-            <img src="public/latest/Mask Group ().svg" />
+            <img src="/latest/Mask Group ().svg" />
             <div className="p-5 border rounded-b-xl lg:w-[350px] w-[360] h-[250px] border-white shadow-lg ">
               <h2 className="font-semibold leading-loose ">
                 Disease detection,check up in the laboratory
@@ -30,7 +30,7 @@ function Latest() {
           </div>
 
           <div className="flex flex-col">
-            <img src="public/latest/Mask Group.svg" />
+            <img src="/latest/Mask Group.svg" />
             <div className="p-5 border rounded-b-xl lg:w-[350px] w-[360] h-[250px] border-white shadow-lg  ">
               <h2 className="font-semibold leading-loose  ">
                 Herbal medicines that are safe for consumption
@@ -42,7 +42,7 @@ function Latest() {
                 <a href="#" className="text-useBlue flex items-center  mt-2">
                   Read more{" "}
                   <span className="px-2">
-                    <img src="public/latest/Vector.svg" />
+                    <img src="/latest/Vector.svg" />
                   </span>
                 </a>
               </p>
@@ -50,7 +50,7 @@ function Latest() {
           </div>
 
           <div className="flex flex-col">
-            <img src="public/latest/Mask Group (1).svg" />
+            <img src="/latest/Mask Group (1).svg" />
             <div className="p-5 border rounded-b-xl lg:w-[350px] w-[360] h-[250px] border-white shadow-lg ">
               <h2 className="font-semibold leading-loose ">
                 Natural care for healthy <br/> facial skin
@@ -62,7 +62,7 @@ function Latest() {
                 <a href="#" className="text-useBlue flex items-center mt-5 ">
                   Read more{" "}
                   <span className="px-2">
-                    <img src="public/latest/Vector.svg" />
+                    <img src="/latest/Vector.svg" />
                   </span>
                 </a>
               </p>

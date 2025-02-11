@@ -4,7 +4,7 @@ function Health() {
       <div className="   flex items-center flex-col lg:flex-row justify-between lg:items-start ">
         <div className="flex flex-1  flex-col items-center lg:justify-start mb-6 lg:mb-0 mt-16 lg:mt-0">
           {/* image */}
-          <img src="public/healthcare/trafalgar-illustration sec02 1.svg" />
+          <img src="/healthcare/trafalgar-illustration sec02 1.svg" />
         </div>
 
         <div className="flex flex-1 flex-col items-center  ">
