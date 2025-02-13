@@ -11,7 +11,7 @@ function Latest() {
         <div className="gap-10  flex lg:flex-row flex-col">
           <div className="flex flex-col">
             <img src="/latest/Mask Group ().svg" />
-            <div className="p-5 border rounded-b-xl lg:w-[350px] w-[360] h-[250px] border-white shadow-lg ">
+            <div className="p-5 border rounded-b-xl lg:w-[350px] w-[360] h-auto border-white shadow-lg ">
               <h2 className="font-semibold leading-loose ">
                 Disease detection,check up in the laboratory
               </h2>
@@ -31,7 +31,7 @@ function Latest() {
 
           <div className="flex flex-col">
             <img src="/latest/Mask Group.svg" />
-            <div className="p-5 border rounded-b-xl lg:w-[350px] w-[360] h-[250px] border-white shadow-lg  ">
+            <div className="p-5 border rounded-b-xl lg:w-[350px] w-[360]h-auto border-white shadow-lg  ">
               <h2 className="font-semibold leading-loose  ">
                 Herbal medicines that are safe for consumption
               </h2>
@@ -51,7 +51,7 @@ function Latest() {
 
           <div className="flex flex-col">
             <img src="/latest/Mask Group (1).svg" />
-            <div className="p-5 border rounded-b-xl lg:w-[350px] w-[360] h-[250px] border-white shadow-lg ">
+            <div className="p-5 border rounded-b-xl lg:w-[350px] w-[360] h-auto border-white shadow-lg ">
               <h2 className="font-semibold leading-loose ">
                 Natural care for healthy <br/> facial skin
               </h2>
