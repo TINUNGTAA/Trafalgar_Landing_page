@@ -12,7 +12,7 @@ function Customer() {
             <img src="/customer/Group 5.svg" />
 
             <div className="flex-col ">
-              <h2 className="font-semibold text-xl lg:leading-loose">Edward Newgate </h2>
+              <h2 className="font-semibold   lg:text-xl lg:leading-loose">Edward Newgate </h2>
               <p>Founder Circle</p>
             </div>
           </div>
