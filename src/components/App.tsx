@@ -3,10 +3,11 @@ import Virtual from "./virtual";
 import Service from "./Service";
 import Health from "./health";
 import Download from "./download";
-import Customer from "./customer";
+
 import Latest from "./latest";
 import Footer from "./footer";
 import ServiceOptions from "./service_options";
+import Carousel from "./carousel";
 
 function App() {
   return (
@@ -17,7 +18,8 @@ function App() {
       <ServiceOptions />
       <Health />
       <Download />
-      <Customer />
+      {/* <Customer /> */}
+      <Carousel/>.
       <Latest />
       <Footer />
     </div>
