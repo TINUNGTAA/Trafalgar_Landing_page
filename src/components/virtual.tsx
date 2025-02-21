@@ -10,7 +10,7 @@ function Virtual() {
           accessible on mobile and online <br /> for everyone{" "}
         </p>
 
-        <button className="bg-blue-500 py-2 lg:py-3  px-3 lg:px-6  text-white  font-semibold    lg:text-2xl  border  text-center rounded-full  hover:bg-blue-300">
+        <button className="bg-blue-500 py-2 lg:py-3  px-3 lg:px-6  text-white  font-semibold  sm:justify-center  lg:text-2xl  border  text-center rounded-full  hover:bg-blue-300">
           Consult today{" "}
         </button>
       </div>
