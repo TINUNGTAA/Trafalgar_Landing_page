@@ -12,19 +12,20 @@ function Footer() {
                 {" "}  
                 Trafalgar{" "}
               </h1>
- z           </div>
-            <p className="mt-5 lg:leading-loose ">
+          </div>
+            <p className="mt-5 leading-loose ">
               Trafalgar provides progressive, and affordable healthcare,
               accessible on mobile and online for everyone
             </p>
-            <p className="mt-5 lg:leading-loose ">©Trafalgar PTY LTD 2025. All rights reserved</p>
+            <p className="mt-5 leading-loose ">©Trafalgar PTY LTD 2025. All rights reserved</p>
           </div>
-          <div className="flex gap-16  mt-12 lg:mt-0 ">
+          <div className="flex flex- gap-16  mt-12 lg:mt-0 ">
 
-          <div className="flex flex-col   ">
+          <div className="flex flex-col lg:flex-row  mt-6 lg:mt-0 justify-center">
+            <div className="flex flex-col  mb-6 lg:mt-0  ">
           <h1 className="font-bold">Company</h1>
 
-            <ul className="mt-5 lg:space-y-5 ">
+            <ul className="mt-5 space-y-5 ">
               <li>About</li>
               <li>Testimonials</li>
               <li>Find a doctor</li>
@@ -32,7 +33,7 @@ function Footer() {
             </ul>
           </div>
 
-          <div className="flex flex-col ">
+          <div className="flex flex-col mt-6 lg:mt-0 ">
             <h1 className="font-bold">Region</h1>
             <ul className="mt-5 space-y-5 ">
               <li>Indonesia</li>
@@ -42,7 +43,7 @@ function Footer() {
             </ul>
           </div>
 
-          <div className="flex flex-col ">
+          <div className="flex flex-col  mt-6 lg:mt-0  ">
             <h1 className="font-bold"> Help</h1>
             <ul className="mt-5 space-y-5">
               <li>Help center</li>
@@ -50,6 +51,7 @@ function Footer() {
               <li>Instructions</li>
               <li>How it works</li>
             </ul>
+          </div>
           </div>
           </div>
         </div>
