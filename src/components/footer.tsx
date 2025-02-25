@@ -24,7 +24,6 @@ function Footer() {
           <div className="flex flex-col lg:flex-row   justify-center">
             <div className="flex flex-col  mb-6 lg:mt-0  ">
           <h1 className="font-bold">Company</h1>
-
             <ul className="mt-5 space-y-5 ">
               <li>About</li>
               <li>Testimonials</li>
@@ -33,7 +32,7 @@ function Footer() {
             </ul>
           </div>
 
-          <div className="flex flex-col mt-6 lg:mt-0 ">
+          <div className="flex flex-col mb-6 lg:mt-0 ">
             <h1 className="font-bold">Region</h1>
             <ul className="mt-5 space-y-5 ">
               <li>Indonesia</li>
@@ -43,7 +42,7 @@ function Footer() {
             </ul>
           </div>
 
-          <div className="flex flex-col  mt-6 lg:mt-0  ">
+          <div className="flex flex-col  mt-b lg:mt-0  ">
             <h1 className="font-bold"> Help</h1>
             <ul className="mt-5 space-y-5">
               <li>Help center</li>
