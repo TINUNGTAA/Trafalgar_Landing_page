@@ -1,6 +1,6 @@
 function Footer() {
   return (
-    <section className="bg-gradient-to-b from-blue-300 to-blue-600 py-8 mt-16 lg:px-28 ">
+    <section className="bg-gradient-to-b from-blue-300 to-blue-600 px-8 mt-16 lg:px-28 ">
       <div className=" mx-auto  pt-10 pb-20  ">
         <div className="flex flex-col lg:flex-row text-white items-start ">
           <div className="flex flex-col w-[460px]  pt-">
