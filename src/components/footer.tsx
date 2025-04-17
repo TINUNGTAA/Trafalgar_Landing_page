@@ -21,7 +21,7 @@ function Footer() {
           </div>
           <div className="flex flex- gap-16  mt-12 lg:mt-0 ">
 
-          <div className="flex flex-col lg:flex-row   justify-center">
+          <div className="flex flex-col lg:flex-row  gap-16   justify-center">
             <div className="flex flex-col  mb-6 lg:mt-0  ">
           <h1 className="font-bold">Company</h1>
             <ul className="mt-5 space-y-5 ">

@@ -21,7 +21,9 @@ function App() {
       {/* <Customer /> */}
       <Carousel/>.
       <Latest />
+      
       <Footer />
+    
     </div>
   );
 }

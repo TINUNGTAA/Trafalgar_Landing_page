@@ -13,7 +13,7 @@ function Health() {
             Providers
             <div className="hidden lg:flex  bg-black w-16 h-1 rounded-full my-6"></div>
           </h1>
-          <p className="text-gray-500  lg:text-xl  lg:eading-loose  mt-3 lg:mt-6">
+          <p className="text-gray-500  lg:text-xl  lg:leading-loose  mt-3 lg:mt-6">
             Trafalgar provides progressive, and affordable <br />
             healthcare , accessible on mobileand on online for <br />
             everyone. To us, it's not just work. We take pride <br />
